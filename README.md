@@ -2,8 +2,8 @@
 
 Kelompok F16 :
 Hisam Widi Prayoga - 17-0026
-Alfin Pradana
-Himawan
+Alfin Pradana - 17 - 0191
+Himawan 16 - 0143
 
 # Nomor 1
 Pertama yang harus dilakukan adalah mencari file yang memiliki ext dengan jpg. setelah mendapat file dengan extension .jpg, maka string tersebut harus dipotong sehingga menjadi nama file tanpa extension .jpg setelah dipotong, tambahkan extension _grey dan tambahkan lagi .png pada nama file tersebut. lalu rename nama file dengan string dengan fungsi rename() yang berfungsi untuk move dalam fungsi yang sama.
